@@ -1,6 +1,6 @@
 # Image Converter (English Description)
 
-Image Converter is a simple tool consisting of three scripts: `image_to_webp.py`, `webp_to_jpg_png_converter.py`, and `image_to_webp_converter.py`. It facilitates the conversion of images between different formats efficiently.
+Image Converter is a simple tool consisting of three scripts: `webp_to_jpg_png_converter.py`, and `image_to_webp_converter.py`. It facilitates the conversion of images between different formats efficiently.
 
 ## 1. webp_to_jpg_png_converter.py
 
